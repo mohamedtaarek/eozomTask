@@ -1,0 +1,14 @@
+{
+  "name": "enozom",
+  "version": "1.0.0",
+  "description": "technical test",
+  "main": "index.js",
+  "author": "mohamed tarek",
+  "license": "MIT",
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "dependencies": {
+    "objects-to-csv": "^1.3.6"
+  }
+}
